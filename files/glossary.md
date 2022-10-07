@@ -204,6 +204,9 @@ Read more about the history of Python here: https://www.geeksforgeeks.org/histor
 
 
 ## PaaS
+Platform as a service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications. You purchase the resources you need from a cloud service provider on a pay-as-you-go basis and access them over a secure Internet connection.
+
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas/
 
 
 ## SaaS
